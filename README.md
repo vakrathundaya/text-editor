@@ -1,4 +1,4 @@
-# text-editor# Text Editor
+# Text Editor
 
   ![Github licence](http://img.shields.io/badge/license-""-blue.svg)
   
@@ -28,7 +28,7 @@
 
   ## Usage 
 
-  
+  https://pwa-editor.herokuapp.com/
 
 
   ## License 
